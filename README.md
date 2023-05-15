@@ -2,8 +2,8 @@
 
 ![App Screenshot](https://drive.google.com/uc?export=view&id=1Uffuc542Le8P4FC6P0JQdz0ouI28cBlH)
 
-
-**emiliedionisio/emiliedionisio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--
+**emiliedionisio/emiliedionisio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
 
