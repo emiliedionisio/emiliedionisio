@@ -15,7 +15,7 @@ As a proactive and self-motivated individual, I am highly efficient in providing
 ## 💻 Projects:
 🔭 I’m currently working on our capstone project called Cybersecurity Training Range project at TKH - https://github.com/cybertrainingrange/ctre-team-a
 
-## 📘 Research Paper: (https://drive.google.com/file/d/17IVccbve_boajSNkOt9CQMrp80ro1t7m/view?usp=share_link)
+## 📘 Research Paper: https://drive.google.com/file/d/17IVccbve_boajSNkOt9CQMrp80ro1t7m/view?usp=share_link
 
 - 🌱 I’m currently learning Cybersecurity Networking
 - 👯 I’m looking to collaborate on CTRE project
