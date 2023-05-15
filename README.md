@@ -17,7 +17,7 @@ As a proactive and self-motivated individual, I am highly efficient in providing
 
 
 ## 📘 Research Paper: 
-[Penetration Testing:](https://docs.google.com/document/d/17IVccbve_boajSNkOt9CQMrp80ro1t7m) 
+[Penetration Testing:](https://drive.google.com/file/d/17IVccbve_boajSNkOt9CQMrp80ro1t7m/view?usp=share_link) 
 
 
 - 🌱 I’m currently learning Cybersecurity Networking
