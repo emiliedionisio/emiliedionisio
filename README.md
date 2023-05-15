@@ -20,3 +20,7 @@ As a proactive and self-motivated individual, I am highly efficient in providing
 - 👯 I’m looking to collaborate on CTRE project
 - 📫 How to reach me: edionisio@swishport.com
 - ⚡ Fun fact: ...
+
+### Emilie Dionisio👩‍
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emdionisio/)
+- [@Emilie Dionisio](https://github.com/emiliedionisio)
