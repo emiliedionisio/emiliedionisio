@@ -10,6 +10,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Cybersecurity Training Range project at TKH 
 - 🌱 I’m currently learning Cybersecurity Networking
 - 👯 I’m looking to collaborate on CTRE project
-- 📫 How to reach me: ...
+- 📫 How to reach me: edionisio@swishport.com
 - ⚡ Fun fact: ...
+
 
