@@ -25,8 +25,7 @@ As a proactive and self-motivated individual, I am highly efficient in providing
 [Penetration Testing](https://drive.google.com/file/d/17IVccbve_boajSNkOt9CQMrp80ro1t7m/view?usp=share_link) 
 
 
-- 🌱 I’m currently learning Cybersecurity Networking
-- 👯 I’m looking to collaborate on CTRE project
+- 🌱 I’m currently learning Cybersecurity Networking at [The Knowledge House](https://www.theknowledgehouse.org/)
 - 📫 How to reach me: edionisio@swishport.com
 - ⚡ Fun fact: ...
 
