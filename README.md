@@ -13,7 +13,7 @@ As a proactive and self-motivated individual, I am highly efficient in providing
 ## 🤯 My Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,aws,github,git,docker,vim,html,markdown,wordpress,photoshop,visual studio" />
+    <img src="https://skillicons.dev/icons?i=linux,bash,windows,aws,github,git,docker,vim,html,markdown,wordpress,photoshop,visual studio" />
   </a>
 </p>
 
@@ -24,10 +24,13 @@ As a proactive and self-motivated individual, I am highly efficient in providing
 ## 📘 Research Paper
 [Penetration Testing](https://drive.google.com/file/d/17IVccbve_boajSNkOt9CQMrp80ro1t7m/view?usp=share_link) 
 
-
 - 🌱 I’m currently learning Cybersecurity Networking at [The Knowledge House](https://www.theknowledgehouse.org/)
 - 📫 How to reach me: edionisio@swishport.com
 - ⚡ Fun fact: I roam around New York City and other cities taking photos street life moments of people. An amateur street photography. 
+
+## :o
+
+You can 📬 me at edionisio@swishport.com
 
 ### Emilie Dionisio👩‍
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emdionisio/)
