@@ -3,6 +3,14 @@
 
 ![App Screenshot](https://drive.google.com/uc?export=view&id=1V4B55629HHkWc7vih0xOSoozUgCKsbm2)
 
+## 🤯
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,bash,aws,github,git,docker,vim,html,markdown,wordpress,photoshop,visual studio" />
+  </a>
+</p>
+
 ## 🚀 About Me
 
 With over 10+ years of experience in Technical and Desktop Support and 3 years of Network Administration experience for small businesses, I possess strong skills in computer hardware and software installation, repair, and maintenance. I excel at identifying and resolving complex technical issues and implementing effective security measures to troubleshoot vulnerabilities.
@@ -11,11 +19,6 @@ Currently, I am expanding my knowledge and skills in Cybersecurity and AWS Cloud
 
 As a proactive and self-motivated individual, I am highly efficient in providing exceptional customer service. I possess a natural ability to quickly learn new skills and find innovative solutions to complex problems. With a strong commitment to professional development, I continuously strive to enhance my skills and knowledge, delivering effective solutions to any challenge that may arise.
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,aws,github,git,docker,vim,html,markdown,wordpress,photoshop,visual studio" />
-  </a>
-</p>
 
 ## 💻 Projects
 🔭 I’m currently working on our capstone project called [Cybersecurity Training Range Project at TKH](https://github.com/cybertrainingrange/ctre-team-a)
