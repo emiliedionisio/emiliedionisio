@@ -17,11 +17,11 @@ As a proactive and self-motivated individual, I am highly efficient in providing
   </a>
 </p>
 
-## 💻 Projects:
+## 💻 Projects
 🔭 I’m currently working on our capstone project called [Cybersecurity Training Range Project at TKH](https://github.com/cybertrainingrange/ctre-team-a)
 
 
-## 📘 Research Paper: 
+## 📘 Research Paper
 [Penetration Testing](https://drive.google.com/file/d/17IVccbve_boajSNkOt9CQMrp80ro1t7m/view?usp=share_link) 
 
 
