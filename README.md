@@ -9,9 +9,7 @@
 ## 🤯 Technical Skills
 
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,bash,aws,github,git,docker,vim,html,markdown,wordpress,photoshop,visual studio" />
-  </a>
 </p>
 
 
