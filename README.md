@@ -12,7 +12,6 @@ As a proactive and self-motivated individual, I am highly efficient in providing
 
 ## 🤯 My Skills
 <p align="center">
-  <i class="fa-brands fa-windows"></i>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,bash,aws,github,git,docker,vim,html,markdown,wordpress,photoshop,visual studio" />
   </a>
