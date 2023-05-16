@@ -47,6 +47,6 @@ As a proactive and self-motivated individual, I am highly efficient in providing
 </p>
 
 
-### Emilie Dionisio👩‍
+<!---### Emilie Dionisio👩‍
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emdionisio/)
-- [@Emilie Dionisio](https://github.com/emiliedionisio)
+- [@Emilie Dionisio](https://github.com/emiliedionisio) --->
