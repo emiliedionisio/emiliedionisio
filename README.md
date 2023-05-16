@@ -1,4 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&pause=1000&color=3FF799&width=435&lines=Hello+there%2C++I'm+Emilie!+Welcome+to+my+page!;I'm+self+taught.+Always+learning+new+things.;I+have+a+knack+for+Network+Security+and+a+cup+of+joe.;With+10+years+of+experience++as+a+Technical+Support.;Help%2C+Teach%2C+and+Learn+is+always+my+mantra.)](https://git.io/typing-svg) 👩‍💻 📖 💻 
+<p align="center">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&pause=1000&color=3FF799&width=435&lines=Hello+there%2C++I'm+Emilie!+Welcome+to+my+page!;I'm+self+taught.+Always+learning+new+things.;I+have+a+knack+for+Network+Security+and+a+cup+of+joe.;With+10+years+of+experience++as+a+Technical+Support.;Help%2C+Teach%2C+and+Learn+is+always+my+mantra.)](https://git.io/typing-svg) 
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,bash,aws,github,git,docker,vim,html,markdown,wordpress,photoshop,visual studio" />
+  </a>
+</p>
 
 ![App Screenshot](https://drive.google.com/uc?export=view&id=1V4B55629HHkWc7vih0xOSoozUgCKsbm2)
 
@@ -10,12 +16,6 @@ Currently, I am expanding my knowledge and skills in Cybersecurity and AWS Cloud
 
 As a proactive and self-motivated individual, I am highly efficient in providing exceptional customer service. I possess a natural ability to quickly learn new skills and find innovative solutions to complex problems. With a strong commitment to professional development, I continuously strive to enhance my skills and knowledge, delivering effective solutions to any challenge that may arise.
 
-## 🤯 My Skills
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,aws,github,git,docker,vim,html,markdown,wordpress,photoshop,visual studio" />
-  </a>
-</p>
 
 ## 💻 Projects
 🔭 I’m currently working on our capstone project called [Cybersecurity Training Range Project at TKH](https://github.com/cybertrainingrange/ctre-team-a)
