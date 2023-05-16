@@ -38,9 +38,10 @@ As a proactive and self-motivated individual, I am highly efficient in providing
 - ⚡ Fun fact: I roam around New York City and other cities taking photos street life moments of people. An amateur street photography. 
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://www.linkedin.com/in/emdionisio/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a> | <a href="https://skillicons.dev">
+  </a>  
+    <a href="https://f14streetphotog.wixsite.com/fstopmoment">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
