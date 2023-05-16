@@ -13,7 +13,7 @@ As a proactive and self-motivated individual, I am highly efficient in providing
 ## 🤯 My Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,windows,aws,github,git,docker,vim,html,markdown,wordpress,photoshop,visual studio" />
+    <img src="https://skillicons.dev/icons?i=linux,bash,aws,github,git,docker,vim,html,markdown,wordpress,photoshop,visual studio" />
   </a>
 </p>
 
