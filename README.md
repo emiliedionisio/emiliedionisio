@@ -19,7 +19,7 @@
 			<td><img alt="" src="https://drive.google.com/file/d/1TEVkIb9CK3t64Ssn-22RamV7Twyhk73B/view?usp=share_link" /></td>
 		</tr>
 	</tbody>
-
+</table>
 ## 🚀 About Me
 
 With over 10+ years of experience in Technical and Desktop Support and 3 years of Network Administration experience for small businesses, I possess strong skills in computer hardware and software installation, repair, and maintenance. I excel at identifying and resolving complex technical issues and implementing effective security measures to troubleshoot vulnerabilities.
