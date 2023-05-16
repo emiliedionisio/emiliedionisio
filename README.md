@@ -39,7 +39,9 @@ As a proactive and self-motivated individual, I am highly efficient in providing
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linkedin,instagram" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a> | <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
 
