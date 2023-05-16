@@ -27,7 +27,7 @@ As a proactive and self-motivated individual, I am highly efficient in providing
 
 - 🌱 I’m currently learning Cybersecurity Networking at [The Knowledge House](https://www.theknowledgehouse.org/)
 - 📫 How to reach me: edionisio@swishport.com
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I roam around New York City and other cities taking photos street life moments of people. An amateur street photography. 
 
 ### Emilie Dionisio👩‍
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emdionisio/)
