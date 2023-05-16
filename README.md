@@ -28,7 +28,7 @@ As a proactive and self-motivated individual, I am highly efficient in providing
 - 📫 How to reach me: edionisio@swishport.com
 - ⚡ Fun fact: I roam around New York City and other cities taking photos street life moments of people. An amateur street photography. 
 
-## :o
+<i class="fa-brands fa-windows"></i>
 
 You can 📬 me at edionisio@swishport.com
 
