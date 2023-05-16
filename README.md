@@ -36,6 +36,12 @@ As a proactive and self-motivated individual, I am highly efficient in providing
 - 📫 How to reach me: edionisio@swishport.com
 - ⚡ Fun fact: I roam around New York City and other cities taking photos street life moments of people. An amateur street photography. 
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linkedin,instagram" />
+  </a>
+</p>
+
 ### Emilie Dionisio👩‍
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emdionisio/)
 - [@Emilie Dionisio](https://github.com/emiliedionisio)
