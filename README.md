@@ -5,6 +5,7 @@
 ![App Screenshot](https://drive.google.com/uc?export=view&id=1V4B55629HHkWc7vih0xOSoozUgCKsbm2)
 
 
+
 ## 🤯 Technical Skills
 
 <p align="center">
@@ -43,6 +44,7 @@ As a proactive and self-motivated individual, I am highly efficient in providing
     <img src="https://skillicons.dev/icons?i=linkedin,instagram" />
   </a>
 </p>
+
 
 ### Emilie Dionisio👩‍
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emdionisio/)
