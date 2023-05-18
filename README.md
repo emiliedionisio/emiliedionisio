@@ -9,7 +9,7 @@
 ## 🤯 Technical Skills
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=linux,bash,aws,github,git,docker,vim,html,markdown,wordpress,photoshop,visual studio" />
+    <a href="https://github.com/emiliedionisio/emiliedionisio/edit/main/README.md"><img src="https://skillicons.dev/icons?i=linux,bash,aws,github,git,docker,vim,html,markdown,wordpress,photoshop,visual studio" /></a>
 </p>
 
 
