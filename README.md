@@ -9,7 +9,7 @@
 ## 🤯 Technical Skills
 
 <p align="center">
-    https://skillicons.dev/icons?i=linux,bash,aws,github,git,docker,vim,html,markdown,wordpress,photoshop,visual studio"
+    <img src="https://skillicons.dev/icons?i=linux,bash,aws,github,git,docker,vim,html,markdown,wordpress,photoshop,visual studio" />
 </p>
 
 
