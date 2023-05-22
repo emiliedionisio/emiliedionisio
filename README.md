@@ -27,7 +27,7 @@ As a proactive and self-motivated individual, I am highly efficient in providing
 
 
 ## 💻 Capstone Project
-🔭 I’m currently working on our capstone project called [Cybersecurity Training Range Project at TKH](https://github.com/cybertrainingrange/)
+🔭 I’m currently working on our capstone project called [Cybersecurity Training Range Project at TKH](https://github.com/orgs/cybertrainingrange/repositories)
 
 
 ## 📘 Research Paper
