@@ -26,8 +26,8 @@ Currently, I am expanding my knowledge and skills in Cybersecurity and AWS Cloud
 As a proactive and self-motivated individual, I am highly efficient in providing exceptional customer service. I possess a natural ability to quickly learn new skills and find innovative solutions to complex problems. With a strong commitment to professional development, I continuously strive to enhance my skills and knowledge, delivering effective solutions to any challenge that may arise.
 
 
-## 💻 Projects
-🔭 I’m currently working on our capstone project called [Cybersecurity Training Range Project at TKH](https://github.com/cybertrainingrange/ctre-team-a)
+## 💻 Capstone Project
+🔭 I’m currently working on our capstone project called [Cybersecurity Training Range Project at TKH](https://github.com/cybertrainingrange/)
 
 
 ## 📘 Research Paper
