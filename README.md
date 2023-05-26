@@ -19,7 +19,7 @@
 
 ## 🚀 About Me
 
-With over 10+ years of experience in Technical and Desktop Support and 3 years of Network Administration experience for small businesses, I possess strong skills in computer hardware and software installation, repair, and maintenance. I excel at identifying and resolving complex technical issues and implementing effective security measures to troubleshoot vulnerabilities.
+With over 7+ years of experience in Technical and Desktop Support and 3 years of Network Administration experience for small businesses, I possess strong skills in computer hardware and software installation, repair, and maintenance. I excel at identifying and resolving complex technical issues and implementing effective security measures to troubleshoot vulnerabilities.
 
 Currently, I am expanding my knowledge and skills in Cybersecurity and AWS Cloud Computing. Through extensive lab practice and 400+ hours of technical instruction in cybersecurity, I have gained expertise in building VPC and subnets with EC2, routing tables, security groups, and creating a LAMP stack with WordPress in AWS, and more. In addition, I collaborated with a team to design and implement a secure virtual environment to demonstrate our expertise in cybersecurity and AWS cloud infrastructure. We created a comprehensive security lab on a local machine by installing Linux servers with security tools and successfully replicated the entire environment in AWS, ensuring secure deployment in the cloud.
 
