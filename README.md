@@ -7,14 +7,17 @@
 📲 +1.646.770.1205
 <p>
   <a href="https://www.linkedin.com/in/emdionisio/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
    </a>  		
   <a href="https://github.com/emiliedionisio">
-    <img src="https://skillicons.dev/icons?i=github" />
+    <img src="https://skillicons.dev/icons?i=github"/>
   </a>    
-  <a href="https://f14streetphotog.wixsite.com/fstopmoment">
-    <img src="https://skillicons.dev/icons?i=instagram" />
+  <a href="https://www.instagram.com/f1.4streetphotog/">
+    <img src="https://skillicons.dev/icons?i=instagram"/>
   </a>
+  <a href="https://twitter.com/emtech711">
+    <img src="https://skillicons.dev/icons?i=twitter"/>
+  </a>   
 </p>
 
 ---
