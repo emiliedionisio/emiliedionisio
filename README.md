@@ -7,7 +7,7 @@
 📲 +1.646.770.1205
 <p>
   <a href="https://www.linkedin.com/in/emdionisio/">
-    <img src="https://skillicons.dev/icons?=linkedin"/>
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
    </a>
   <a href="https://github.com/emiliedionisio">
     <img src="https://skillicons.dev/icons?i=github"/>
