@@ -1,9 +1,22 @@
 
-### [HOME](https://emiliedionisio.github.io/) | [PROJECTS](https://github.com/emiliedionisio/emiliedionisio.github.io/blob/main/emProjects.md) | [RESEARCH](https://github.com/emiliedionisio/emiliedionisio.github.io/blob/main/emResearch.md) | [RESUME ON GITPAGE](https://github.com/emiliedionisio/emiliedionisio.github.io/blob/main/emtechres.md) | [RESUME PDF VERSION](https://drive.google.com/file/d/1djH2eQEjbeZHFHAlqzNrIv9IYX0zOKRc/view?usp=share_link)<br />  
+### [HOME](https://emiliedionisio.github.io/) | [PROJECTS](/emProjects.md) | [RESEARCH](/emResearch.md) | [RESUME ON GITPAGE](/emtechres.md) | [RESUME PDF VERSION](https://drive.google.com/file/d/1djH2eQEjbeZHFHAlqzNrIv9IYX0zOKRc/view?usp=share_link) | [CERTS](https://www.credly.com/users/emilie-dionisio-charriez/badges)<br /> 
 
+### 📱 **//ping me:**
+📫 emdiotech@proton.me <br />
+📲 +1.646.770.1205
+<p>
+  <a href="https://www.linkedin.com/in/emdionisio/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+   </a>  		
+  <a href="https://github.com/emiliedionisio">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>    
+  <a href="https://f14streetphotog.wixsite.com/fstopmoment">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+</p>
 
-
-
+---
 
 
 ![Main Landing Photo](https://drive.google.com/uc?export=view&id=1JgZG8PanzgYb1vNJzhlf9pBgxXjbIWGK)
