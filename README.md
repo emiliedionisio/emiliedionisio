@@ -44,7 +44,7 @@
 
 ## 🚀 About Me
 
-With over 7+ years of experience in Technical and Desktop Support and 3 years of Network Administration experience for small businesses, I possess strong skills in computer hardware and software installation, repair, and maintenance. I excel at identifying and resolving complex technical issues and implementing effective security measures to troubleshoot vulnerabilities.
+With over 7+ years of experience in Technical and Desktop Support and few years of Network Support experience for small businesses, I possess strong skills in computer hardware and software installation, repair, and maintenance. I excel at identifying and resolving complex technical issues and implementing effective security measures to troubleshoot vulnerabilities.
 
 I have been actively expanding my knowledge and skills in Cybersecurity and AWS Cloud Computing through immersive hands-on experience. With over 400 hours of technical instruction in cybersecurity, I have gained comprehensive expertise in designing secure network infrastructures within virtual environments using VirtualBox. In Phase 1 of our cohort, I successfully configured a standalone pfSense firewall, implemented Suricata to analyze network traffic, and utilized Splunk for effective log monitoring and analysis, enabling the identification of any unusual activities within the network.
 
