@@ -58,6 +58,8 @@ Combining my strong background in Networking with my growing proficiency in Cybe
 
 ---
 
+## 🖼️ [My Street Photos Website](https://f14streetphotog.wixsite.com/fstopmoment) 
+
 In my spare time when I'm  not studying or working, I love taking leisurely strolls around my neighborhood, city streets, and parks, armed with my trusty camera. It's my way of soaking up the sights and snapping photos of the people and places that catch my eye. But for me, it's not just about clicking random shots—it's about telling stories and creating narratives.
 
 When I'm out there with my camera, my mission is to capture those genuine expressions of joy, grief, and excitement. I want to look through my viewfinder and feel what others are feeling, like I'm right there in the moment with them. Those precious instants that pass by in a heartbeat, I want to freeze them in time forever. It's therapeutic for me, you know, this whole street photography gig. It allows me to imagine what life looks like from the other side of the coin.
