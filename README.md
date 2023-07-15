@@ -102,8 +102,6 @@ By designing and developing this cloud-based cybersecurity training range enviro
 
 ## 📘 [My Research Project](/emResearch.md) 
 
-## 🕰️ [Capston Project](/emProjects.md) 
-
 ---
 
 - 🌱 I’m currently learning Cybersecurity Networking at [The Knowledge House](https://www.theknowledgehouse.org/)
