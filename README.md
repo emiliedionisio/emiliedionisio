@@ -81,7 +81,7 @@ So, yeah, for me, it's not just about capturing pretty pictures. It's about embr
 
 ---
 
-## 💻 Capstone Project
+## 💻 [Capstone Project](https://emiliedionisio.github.io/emProjects.html)
 🔭 I’m currently participating in our group capstone project called [Cybersecurity Training Range Project at The Knowledge House](https://github.com/orgs/cybertrainingrange/repositories)
 
 
