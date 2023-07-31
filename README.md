@@ -45,26 +45,52 @@
 
 ## 🚀 About Me
 
-With over 7+ years of experience in Technical and Desktop Support and a few years of Network Support experience for small businesses, I possess strong skills in computer hardware and software installation, repair, and maintenance. I excel at identifying and resolving complex technical issues and implementing effective security measures to troubleshoot vulnerabilities.
+I am a Technical Support Specialist who is passionate about providing exceptional customer service and empowering end-users. I thrive on helping clients overcome technical challenges and ensuring their long-term success. I believe that empathy and relationship building are essential to providing excellent customer support. 
 
-I have been actively expanding my knowledge and skills in Cybersecurity and AWS Cloud Computing through immersive hands-on experience. With over 400 hours of technical instruction in cybersecurity, I have gained comprehensive expertise in designing secure network infrastructures within virtual environments using VirtualBox. In Phase 1 of our cohort, I successfully configured a standalone pfSense firewall, implemented Suricata to analyze network traffic, and utilized Splunk for effective log monitoring and analysis, enabling the identification of any unusual activities within the network.
+I strive to develop trustworthy connections with my clients by carefully listening to their concerns, trying to see things from their perspective, providing my knowledge and expertise, and learning from them as well. This two-way street of learning and teaching is essential to building strong relationships with my clients.
 
-My journey has also led me to develop proficiency in AWS Cloud Computing, specifically in VPC and subnets, EC2 instances, routing tables, security groups, and the creation of LAMP stacks with WordPress in the AWS environment. Collaboration has played a pivotal role in my growth. Together with a talented team, we designed and implemented a secure virtual environment, showcasing our collective expertise in both cybersecurity and AWS cloud infrastructure. This involved setting up a comprehensive security lab on a local machine, complete with Linux servers equipped with advanced security tools. Furthermore, we successfully replicated the entire environment in AWS, ensuring a secure deployment in the cloud.
+I also prioritize training and motivating users to independently tackle similar challenges in the future. I believe that it is important for users to be able to solve their own problems, and I am always happy to provide them with the resources they need to do so.
 
-Continuous professional development is a priority for me, as I actively pursue opportunities to enhance my skills and expand my knowledge. This dedication ensures that I can deliver effective solutions in dynamic and evolving environments. Furthermore, I find immense satisfaction in teaching and empowering end-users, guiding them through the intricacies of various tools and technologies. Witnessing their growth and confidence is truly rewarding.
+I am passionate about technology from computer hardware and software, networking, cloud, and most recently cybersecurity. I am constantly seeking for new ways to increase my abilities and knowledge by constantly upskilling myself. 
 
-Collaboration is a natural fit for me, as I enjoy actively participating in brainstorming sessions. By tapping into the collective insights of the team, we can generate innovative ideas and achieve successful outcomes. I am deeply committed to my personal and professional growth and am excited about the potential contributions I can make to the success of both my team and the organization.
+## Good hands-on knowledge in the following:
+- Computer hardware (Add/upgrade memory, add/replace storages, add adapters and peripherals) 
+- Operating System, software, and application installation (Linux, Windows, and MacOS)
+- Design network topology
+- Network wiring drops and creating CAT 5 & 6 from scratch
+- Routers, Switches, and Firewalls installation and configuration
+- Good knowledge of Cisco IOS
+- Proficient in AWS cloud services such as EC2, VPC, S3, IAM, Route53, and etc.
+- Windows Server Administration
+- Technical Support and troubleshooting
+- Essential and good understanding of Cybersecurity 
+- Experience in installing SIEM tools: Splunk, Snort, and Suricata
 
-Combining my strong background in Networking with my growing proficiency in Cybersecurity and AWS Cloud Computing, I am enthusiastic about the possibilities that lie ahead. I am eager to embark on new challenges, broaden my skill set, and make a positive impact in the ever-evolving world of technology.
+## Other Tools:
+- Kali Linux
+- Nmap
+- Wireshark with PCAPs
+- Paessler PRTG
+- Metasploit
+- Nessus
+
+## Certifications:
+- AWS Cloud Practitioner
+- CompTIA Network+
+- MCSA (Microsoft Certified Solutions Associate) - Windows Server 2016
+- Cisco CCENT
+- CompTIA A+
+
 
 ---
+
+
 
 ## 🖼️ [My Street Photos Website](https://f14streetphotog.wixsite.com/fstopmoment) 
 
 In my spare time when I'm  not studying or working, I love taking leisurely strolls around my neighborhood, city streets, and parks, armed with my trusty camera. It's my way of soaking up the sights and snapping photos of the people and places that catch my eye. But for me, it's not just about clicking random shots—it's about telling stories and creating narratives.
 
 When I'm out there with my camera, my mission is to capture those genuine expressions of joy, grief, and excitement. I want to look through my viewfinder and feel what others are feeling, like I'm right there in the moment with them. Those precious instants that pass by in a heartbeat, I want to freeze them in time forever. It's therapeutic for me, you know, this whole street photography gig. It allows me to imagine what life looks like from the other side of the coin.
-
 
 
 ![Em Street Photo](https://github.com/emiliedionisio/emiliedionisio.github.io/blob/main/em-streetphotos.png)
