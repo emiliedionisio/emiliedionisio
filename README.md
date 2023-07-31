@@ -1,5 +1,5 @@
 
-### [HOME](https://emiliedionisio.github.io/) | [PROJECTS](https://emiliedionisio.github.io/emProjects.html) | [RESEARCH](https://emiliedionisio.github.io/emResearch.html) | <!-- [RESUME ON GITPAGE](https://emiliedionisio.github.io/emtechres.html) | --> [RESUME PDF VERSION](https://github.com/emiliedionisio/emiliedionisio.github.io/blob/main/EmilieDionisio-Res2023%26.pdf) | [CERTS](https://www.credly.com/users/emilie-dionisio-charriez/badges)<br /> 
+### [HOME](https://emiliedionisio.github.io/) | [PROJECTS](https://emiliedionisio.github.io/emProjects.html) | [RESEARCH](https://emiliedionisio.github.io/emResearch.html) | <!-- [RESUME ON GITPAGE](https://emiliedionisio.github.io/emtechres.html) | --> [RESUME PDF VERSION](EmilieDionisio-Res07302023.pdf) | [CERTS](https://www.credly.com/users/emilie-dionisio-charriez/badges)<br /> 
 
 
 ### 📱 **//ping me:**
