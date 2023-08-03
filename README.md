@@ -73,13 +73,20 @@ I am passionate about technology from computer hardware and software, networking
 - Paessler PRTG
 - Metasploit
 - Nessus
+- Splunk
+- Snort
+- Suricata
+- PfSense
 
 ## Certifications:
 - AWS Cloud Practitioner
 - CompTIA Network+
 - MCSA (Microsoft Certified Solutions Associate) - Windows Server 2016
+- Cisco CCNA (Badge)
 - Cisco CCENT
 - CompTIA A+
+
+
 
 
 ---
