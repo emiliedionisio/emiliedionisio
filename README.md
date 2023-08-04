@@ -111,7 +111,7 @@ So, yeah, for me, it's not just about capturing pretty pictures. It's about embr
 
 
 
-## 👩‍💻 [My Resume](https://github.com/emiliedionisio/emiliedionisio.github.io/blob/main/EmilieDionisio-Res2023%26.pdf) 
+<!-- ## 👩‍💻 [My Resume](https://github.com/emiliedionisio/emiliedionisio.github.io/blob/main/EmilieDionisio-Res2023%26.pdf) -->
 
 ---
 
