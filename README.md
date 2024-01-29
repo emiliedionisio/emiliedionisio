@@ -4,8 +4,7 @@
 
 ### 📱 **//ping me:**
 📫 emdiotech@proton.me <br />
-[//]: # (This may be the most platform independent comment)
-<📲 +1.646.770.1205>
+![📲 +1.646.770.1205]
 <p>
   <a href="https://www.linkedin.com/in/emdionisio/">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
