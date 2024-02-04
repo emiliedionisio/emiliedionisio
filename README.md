@@ -66,7 +66,7 @@ I am passionate about technology from computer hardware and software, networking
 - Essential and good understanding of Cybersecurity 
 - Experience in installing SIEM tools: Splunk, Snort, and Suricata
 
-## Other Tools:
+## Cybersecurity Tools:
 - Kali Linux
 - Nmap
 - Wireshark with PCAPs
@@ -79,11 +79,11 @@ I am passionate about technology from computer hardware and software, networking
 - PfSense
 
 ## Certifications:
+- Cisco CCNA (Badge)
+- Cisco CCENT
 - AWS Cloud Practitioner
 - CompTIA Network+
 - MCSA (Microsoft Certified Solutions Associate) - Windows Server 2016
-- Cisco CCNA (Badge)
-- Cisco CCENT
 - CompTIA A+
 
 
