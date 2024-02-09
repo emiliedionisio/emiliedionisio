@@ -64,7 +64,7 @@ I am passionate about technology from computer hardware and software, networking
 - Windows Server Administration
 - Technical Support and troubleshooting
 - Essential and good understanding of Cybersecurity 
-- Experience in installing SIEM tools: Splunk, Snort, and Suricata
+
 
 ## Cybersecurity Tools:
 - Kali Linux
