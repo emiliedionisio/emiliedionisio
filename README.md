@@ -19,7 +19,8 @@
     <img src="https://skillicons.dev/icons?i=twitter"/>
   </a>   
 </p>
-🇵🇭
+
+:guitar
 
 ---
 
