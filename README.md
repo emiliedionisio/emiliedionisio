@@ -8,16 +8,16 @@
 <p>
   <a href="https://www.linkedin.com/in/emdionisio/">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
-   </a>
+  </a>
   <a href="https://github.com/emiliedionisio">
     <img src="https://skillicons.dev/icons?i=github"/>
-  </a> 
+  </a>
   <a href="https://www.instagram.com/f1.4streetphotog/">
     <img src="https://skillicons.dev/icons?i=instagram"/>
   </a>
   <a href="https://twitter.com/emtech711">
     <img src="https://skillicons.dev/icons?i=twitter"/>
-  </a>   
+  </a>
 </p>
 
 <!-- # 🧑‍💻 -->
