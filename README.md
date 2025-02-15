@@ -1,4 +1,3 @@
-
 ### [HOME](https://emiliedionisio.github.io/) | [PROJECTS](https://emiliedionisio.github.io/emProjects.html) | [RESEARCH](https://emiliedionisio.github.io/emResearch.html) | <!-- [RESUME ON GITPAGE](https://emiliedionisio.github.io/emtechres.html) | [RESUME PDF VERSION](EmilieDionisio-Res07302023.pdf) --> [CERTS](https://www.credly.com/users/emilie-dionisio-charriez/badges)<br /> 
 
 
@@ -176,7 +175,7 @@ So, yeah, for me, it's not just about capturing pretty pictures. It's about embr
 ---
 ## 💻 [Capstone Project](https://emiliedionisio.github.io/emProjects.html)
 
-🔭 Participated in the **[Cybersecurity Training Range Project at The Knowledge House](https://github.com/orgs/cybertrainingrange/repositories)**.
+🔭 Participated in the **[Cybersecurity Training Range Project at The Knowledge House](https://github.com/cybertrainingrange/cybertraininingrange.io/blob/main/README.md)**.
 
 Designed and implemented a **cloud-based cybersecurity training range** using AWS. This project provides a scalable, secure, and hands-on learning environment for future cohorts and potential corporate training programs.
 
