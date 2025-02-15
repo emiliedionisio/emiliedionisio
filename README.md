@@ -174,7 +174,22 @@ So, yeah, for me, it's not just about capturing pretty pictures. It's about embr
 <!-- ## 👩‍💻 [My Resume](https://github.com/emiliedionisio/emiliedionisio.github.io/blob/main/EmilieDionisio-Res2023%26.pdf) -->
 
 ---
+## 💻 [Capstone Project](https://emiliedionisio.github.io/emProjects.html)
 
+🔭 Participated in the **[Cybersecurity Training Range Project at TKH](https://github.com/orgs/cybertrainingrange/repositories)**.
+
+Designed and implemented a **cloud-based cybersecurity training range** using AWS. This project provides a scalable, secure, and hands-on learning environment for future cohorts and potential corporate training programs.
+
+### 🔹 Key Features:
+- **Infrastructure:** Built on AWS with EC2, VPC, IAM, and Security Groups.
+- **Security:** Implemented NACLS, WAF, and IAM policies for access control.
+- **Automation & Monitoring:** Used AWS Lambda, CloudWatch, and Trusted Advisor for automation and optimization.
+- **Scalability:** Configured Auto Scaling Groups and Load Balancers to ensure high availability.
+- **Networking:** Designed private/public subnets and enforced security best practices.
+
+
+
+<!--
 ## 💻 [Capstone Project](https://emiliedionisio.github.io/emProjects.html)
 🔭 I’m currently participating in our group capstone project called [Cybersecurity Training Range Project at The Knowledge House](https://github.com/orgs/cybertrainingrange/repositories)
 
@@ -195,7 +210,7 @@ To monitor the environment and gather insights, we employed CloudWatch, which pr
 
 Finally, we utilized Amazon API Gateway to facilitate seamless integration between different components of the training range environment, allowing for easy access to resources and tools.
 
-By designing and developing this cloud-based cybersecurity training range environment, we demonstrated our ability to apply learned skills and tools to create a practical and comprehensive solution. Our aim was to provide an immersive and effective learning experience for future cohorts or potential corporate clients, equipping them with the necessary cybersecurity knowledge and skills. 
+By designing and developing this cloud-based cybersecurity training range environment, we demonstrated our ability to apply learned skills and tools to create a practical and comprehensive solution. Our aim was to provide an immersive and effective learning experience for future cohorts or potential corporate clients, equipping them with the necessary cybersecurity knowledge and skills. -->
 
 ## 📘 [My Research Project](/emResearch.md) 
 
