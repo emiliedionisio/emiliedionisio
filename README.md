@@ -149,7 +149,7 @@ I am passionate about technology from computer hardware and software, networking
 
 
 ---
-## 📷 [Street Photography](https://f14streetphotog.wixsite.com/fstopmoment)](https://f14streetphotog.wixsite.com/fstopmoment)
+## 📷 [![Street Photography](https://f14streetphotog.wixsite.com/fstopmoment)](https://f14streetphotog.wixsite.com/fstopmoment)
 
 In my free time, I enjoy exploring the streets with my camera, capturing candid moments that tell compelling stories. Street photography allows me to freeze raw emotions—joy, sorrow, and excitement—in a single frame, offering a glimpse into everyday life.
 
