@@ -149,11 +149,15 @@ I am passionate about technology from computer hardware and software, networking
 
 
 ---
-## 📷 Street Photography
+## 📷 [Street Photography](https://f14streetphotog.wixsite.com/fstopmoment)](https://f14streetphotog.wixsite.com/fstopmoment)
 
 In my free time, I enjoy exploring the streets with my camera, capturing candid moments that tell compelling stories. Street photography allows me to freeze raw emotions—joy, sorrow, and excitement—in a single frame, offering a glimpse into everyday life.
 
-[![My Collection](https://f14streetphotog.wixsite.com/fstopmoment)](https://f14streetphotog.wixsite.com/fstopmoment)
+
+
+![Em Street Photo](https://github.com/emiliedionisio/emiliedionisio.github.io/blob/main/em-streetphotos.png)
+
+
 
 Beyond photography, I love striking up conversations with strangers, learning about their journeys, and adding a human connection to my work. Every photo is more than just an image—it's a story waiting to be told.
 
