@@ -154,8 +154,7 @@ I am passionate about technology from computer hardware and software, networking
 In my free time, I enjoy exploring the streets with my camera, capturing candid moments that tell compelling stories. Street photography allows me to freeze raw emotions—joy, sorrow, and excitement—in a single frame, offering a glimpse into everyday life.
 
 
-
-![Em Street Photo](https://github.com/emiliedionisio/emiliedionisio.github.io/blob/main/em-streetphotos.png)
+[![Em Street Photo](https://github.com/emiliedionisio/emiliedionisio.github.io/blob/main/em-streetphotos.png)](https://f14streetphotog.wixsite.com/fstopmoment)
 
 
 
