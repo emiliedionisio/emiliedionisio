@@ -82,7 +82,7 @@
 
 ---
 
-## 🎓 [Certifications](https://www.credly.com/users/ec1223)
+## 🎓 [Certifications](https://www.credly.com/users/emilie-dionisio-charriez)
 
 🛡️ **AWS Cloud Practitioner**
 🛡️ **Cisco CCENT** 
