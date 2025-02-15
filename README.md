@@ -176,7 +176,7 @@ So, yeah, for me, it's not just about capturing pretty pictures. It's about embr
 ---
 ## 💻 [Capstone Project](https://emiliedionisio.github.io/emProjects.html)
 
-🔭 Participated in the **[Cybersecurity Training Range Project at TKH](https://github.com/orgs/cybertrainingrange/repositories)**.
+🔭 Participated in the **[Cybersecurity Training Range Project at The Knowledge House](https://github.com/orgs/cybertrainingrange/repositories)**.
 
 Designed and implemented a **cloud-based cybersecurity training range** using AWS. This project provides a scalable, secure, and hands-on learning environment for future cohorts and potential corporate training programs.
 
