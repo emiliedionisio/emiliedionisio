@@ -149,9 +149,18 @@ I am passionate about technology from computer hardware and software, networking
 
 
 ---
+## 📷 Street Photography
+
+In my free time, I enjoy exploring the streets with my camera, capturing candid moments that tell compelling stories. Street photography allows me to freeze raw emotions—joy, sorrow, and excitement—in a single frame, offering a glimpse into everyday life.
+
+[![My Collection](https://f14streetphotog.wixsite.com/fstopmoment)](https://f14streetphotog.wixsite.com/fstopmoment)
+
+Beyond photography, I love striking up conversations with strangers, learning about their journeys, and adding a human connection to my work. Every photo is more than just an image—it's a story waiting to be told.
+
+Check out my photography collection here: **[f1.4streetphotog](https://f14streetphotog.wixsite.com/fstopmoment)**
 
 
-
+<!--
 ## 🖼️ [My Street Photos Website](https://f14streetphotog.wixsite.com/fstopmoment) 
 
 In my spare time when I'm  not studying or working, I love taking leisurely strolls around my neighborhood, city streets, and parks, armed with my trusty camera. It's my way of soaking up the sights and snapping photos of the people and places that catch my eye. But for me, it's not just about clicking random shots—it's about telling stories and creating narratives.
@@ -167,7 +176,7 @@ When I'm out there with my camera, my mission is to capture those genuine expres
 And you know what's really cool? Along my walks, I often end up bumping into people and striking up conversations. That's another reason why I'm drawn to street photography—it's a fantastic way to meet new folks and get to know their stories. We'll chat for a bit, exchange a few laughs, and maybe even forge a temporary connection. It adds a whole new dimension to my photo-taking adventures, injecting them with human warmth and authenticity.
 
 So, yeah, for me, it's not just about capturing pretty pictures. It's about embracing the experience, diving into the streets, and immersing myself in the colorful tapestry of life. Every click of the camera brings me closer to understanding the world and the people who inhabit it. It's my way of freezing the essence of existence, one frame at a time. If you want to check out my photos, you can check this out: [f1.4streetphotog](https://f14streetphotog.wixsite.com/fstopmoment).
-
+-->
 
 
 <!-- ## 👩‍💻 [My Resume](https://github.com/emiliedionisio/emiliedionisio.github.io/blob/main/EmilieDionisio-Res2023%26.pdf) -->
@@ -186,30 +195,6 @@ Designed and implemented a **cloud-based cybersecurity training range** using AW
 - **Scalability:** Configured Auto Scaling Groups and Load Balancers to ensure high availability.
 - **Networking:** Designed private/public subnets and enforced security best practices.
 
-
-
-<!--
-## 💻 [Capstone Project](https://emiliedionisio.github.io/emProjects.html)
-🔭 I’m currently participating in our group capstone project called [Cybersecurity Training Range Project at The Knowledge House](https://github.com/orgs/cybertrainingrange/repositories)
-
-
-Our group capstone project focused on designing and implementing a comprehensive cloud-based cybersecurity training range environment. Our objective was to develop a solution that could be utilized for future cohorts or potentially be offered as a learning and training product to companies. Throughout the project, we demonstrated our knowledge, skills, and abilities in a variety of AWS services, showcasing our expertise in planning, designing, configuring, provisioning, securing, and deploying high-quality solutions.
-
-The main goal was to create a full-scale cloud native cybersecurity training range environment using AWS services. We carefully considered the requirements and needs of future cohorts or potential corporate clients to ensure that our solution was robust, feature-rich, and effective. To achieve this, we leveraged a range of AWS services, including EC2 for hosting various applications and tools needed for cybersecurity training. IAM was used to manage access and permissions to the different resources within the environment, ensuring proper security measures were in place.
-
-AWS Security Groups and NACLS were implemented to enforce network-level security policies, protecting against unauthorized access and potential threats. We also utilized WAF (Web Application Firewall) to add an extra layer of protection against web exploits and attacks.
-
-For data storage, we employed S3, a scalable and reliable solution that could accommodate the large amounts of data generated during the training sessions. VPC Networking, subnetting, and routing were utilized to create a segregated network environment, ensuring isolation between different components and maximizing security.
-
-To manage databases, we utilized Amazon RDS and DynamoDB, both providing secure and efficient storage solutions for training data. Lambda functions were implemented for task automation and serverless computing, allowing us to execute code without managing servers.
-
-To ensure high availability and scalability, we utilized EC2 Auto Scaling Groups and Network Load Balancer. These features enabled the training environment to handle increased demand during peak usage periods, providing a smooth and uninterrupted learning experience.
-
-To monitor the environment and gather insights, we employed CloudWatch, which provided real-time monitoring, logging, and alerting capabilities. Additionally, AWS Trusted Advisor continuously assessed the environment for security and cost optimizations, ensuring its efficiency and effectiveness.
-
-Finally, we utilized Amazon API Gateway to facilitate seamless integration between different components of the training range environment, allowing for easy access to resources and tools.
-
-By designing and developing this cloud-based cybersecurity training range environment, we demonstrated our ability to apply learned skills and tools to create a practical and comprehensive solution. Our aim was to provide an immersive and effective learning experience for future cohorts or potential corporate clients, equipping them with the necessary cybersecurity knowledge and skills. -->
 
 ## 📘 [My Research Project](/emResearch.md) 
 
