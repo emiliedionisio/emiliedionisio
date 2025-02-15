@@ -95,11 +95,11 @@
 📜 **AWS Educate Getting Started with Compute** (Badge)  
 
 ---
-
+<!--
 ## 🔗 Projects & Research
 📌 **[Project 1 Name](Project 1 URL)** – Brief one-liner about the project  
 📌 **[Project 2 Name](Project 2 URL)** – Brief one-liner about the project  
-📌 **[Research Paper/Article](Research URL)** – Brief one-liner about the topic  
+📌 **[Research Paper/Article](Research URL)** – Brief one-liner about the topic  -->
 
 ---
 <!-- ## 🚀 About Me // Commentd out!
