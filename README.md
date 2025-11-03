@@ -45,10 +45,13 @@
 
 ## 🤯 Technical Skills
 
+[![My Skills](https://skillicons.dev/icons?i=linux,kali,windows,apple,bash,powershell,aws,azure,git,docker,vim,python,html,md,css,wordpress,vscode,git,github)](https://skillicons.dev)
+
+<!---
 <p align="left">
     <a href="https://github.com/emiliedionisio">
     <img src="https://skillicons.dev/icons?i=linux,bash,aws,github,git,docker,vim,html,markdown,wordpress,photoshop,visual studio" /></a>
-</p>
+</p> --->
 
 
 <!---|  ![App Screenshot](https://drive.google.com/uc?export=view&id=1_Px6rC01N12xsDqnYvmyWORzAiwlZXLa)  |   ![App Screenshot](https://drive.google.com/uc?export=view&id=1F_FzXU7DaIzoOblHXQdz4OXzkp2pYw_j)  |    ![App Screenshot](https://drive.google.com/uc?export=view&id=1SF_Rf19mnJaVMP2AVyEiuWalSYp6diR4) |  ![App Screenshot](https://drive.google.com/uc?export=view&id=120uOb3Mj3VsCHq8deMUNFuUsdZFwCyCI)  |
